@@ -1,6 +1,6 @@
 # LEO-GEO-Hoffman-transfer-in-MATLAB: In-Space Propulsion Feasibility Analysis
 
-# overview
+# Overview
 This repository contains a MATLAB script developed to analyze the feasibility of various propulsion technologies for a bidirectional LEO-to-GEO mission.
 
 ## Technologies Evaluated
